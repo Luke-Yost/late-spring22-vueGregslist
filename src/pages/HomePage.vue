@@ -11,7 +11,7 @@
   >
     <div class="home-card p-5 bg-white rounded elevation-3">
       <h1 class="my-5 bg-dark text-white p-3 rounded text-center">
-        Welcome to gregslist, what do you want?
+        Welcome to Lukeslist, what would you like?
       </h1>
     </div>
   </div>

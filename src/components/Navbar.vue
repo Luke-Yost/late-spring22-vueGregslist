@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
       <div class="d-flex flex-column align-items-center">
-        <h2><span class="text-success">G</span>regslist</h2>
+        <h2><span class="text-success">L</span>ukeslist</h2>
       </div>
     </router-link>
     <button
